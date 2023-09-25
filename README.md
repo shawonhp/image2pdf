@@ -32,4 +32,4 @@ If you encounter any issues during the conversion process, an error message will
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss what you would like to change or add.
 
 **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE v3. See the LICENSE file for details.
